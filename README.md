@@ -30,10 +30,10 @@ The Employee Class And Address Class  is defined inside the model packages which
  
    inside Employee Class:- <br>
    
- id (integer)
- name (string)
- email (string)
- phone (string)
+ id (integer)<br>
+ name (string)<br>
+ email (string)<br>
+ phone (string)<br>
  address (string)
    
 
